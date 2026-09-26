@@ -70,6 +70,9 @@
 - [**Syncthing Server**](/syncthing-server/) and [**Syncthing Client**](/syncthing-client/)
   - A file syncing manager
   - https://github.com/syncthing/syncthing/blob/main/README-Docker.md
+- [**Penpot**](/penpot-server/)
+  - A design platform
+  - https://help.penpot.app/technical-guide/getting-started/docker/
 
 ## Setup
 
